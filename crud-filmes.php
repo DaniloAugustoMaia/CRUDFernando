@@ -4,9 +4,9 @@ session_start();
 // --- ARRAY BASE (edite aqui quando quiser adicionar novos padrões) ---
 $filmesBase = [
     [
-        'titulo' => 'Matrix 0',
-        'diretor' => 'Lana e Lilly Wachowski',
-        'ano' => 1999
+        'titulo' => 'Thaina',
+        'diretor' => 'Silva',
+        'ano' => 2006
     ],
     [
         'titulo' => 'Interestelar',
