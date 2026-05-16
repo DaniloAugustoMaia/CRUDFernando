@@ -17,6 +17,11 @@ $filmesBase = [
         'titulo' => 'Batman Begins',
         'diretor' => 'Christopher Nolan',
         'ano' => 2005
+    ],
+    [
+         'titulo' => 'Gabriel',
+        'diretor' => 'Priori',
+        'ano' => 2007
     ]
 ];
 
