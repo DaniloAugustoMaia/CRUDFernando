@@ -4,9 +4,9 @@ session_start();
 // --- ARRAY BASE (edite aqui quando quiser adicionar novos padrões) ---
 $filmesBase = [
     [
-        'titulo' => 'James',
-        'diretor' => 'Soares Silva',
-        'ano' => 2007
+        'titulo' => 'Danilo',
+        'diretor' => 'Augusto Maia',
+        'ano' => 2006
     ],
     [
         'titulo' => 'Interestelar',
@@ -17,6 +17,16 @@ $filmesBase = [
         'titulo' => 'Batman Begins',
         'diretor' => 'Christopher Nolan',
         'ano' => 2005
+    ],
+    [
+         'titulo' => 'Gabriel',
+        'diretor' => 'Priori',
+        'ano' => 2007
+    ],
+    [
+        'titulo' => 'James',
+        'diretor' => 'Soares Silva',
+        'ano' => 2007
     ]
 ];
 
