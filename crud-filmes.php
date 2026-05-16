@@ -27,6 +27,11 @@ $filmesBase = [
         'titulo' => 'James',
         'diretor' => 'Soares Silva',
         'ano' => 2007
+    ],
+    [
+        'titulo' => 'Thaina',
+        'diretor' => 'Silva',
+        'ano' => 2006,
     ]
 ];
 
